@@ -1,0 +1,7 @@
+C:\Users\RMK\Desktop\ШАГ\C#\HomeWork\HW_9_Kyrsak_FAR_manager\CA_ConsoleManager\CA_ConsoleManager\bin\Debug\CA_ConsoleManager.exe.config
+C:\Users\RMK\Desktop\ШАГ\C#\HomeWork\HW_9_Kyrsak_FAR_manager\CA_ConsoleManager\CA_ConsoleManager\bin\Debug\CA_ConsoleManager.exe
+C:\Users\RMK\Desktop\ШАГ\C#\HomeWork\HW_9_Kyrsak_FAR_manager\CA_ConsoleManager\CA_ConsoleManager\bin\Debug\CA_ConsoleManager.pdb
+C:\Users\RMK\Desktop\ШАГ\C#\HomeWork\HW_9_Kyrsak_FAR_manager\CA_ConsoleManager\CA_ConsoleManager\obj\Debug\CA_ConsoleManager.csprojResolveAssemblyReference.cache
+C:\Users\RMK\Desktop\ШАГ\C#\HomeWork\HW_9_Kyrsak_FAR_manager\CA_ConsoleManager\CA_ConsoleManager\obj\Debug\CA_ConsoleManager.csproj.CoreCompileInputs.cache
+C:\Users\RMK\Desktop\ШАГ\C#\HomeWork\HW_9_Kyrsak_FAR_manager\CA_ConsoleManager\CA_ConsoleManager\obj\Debug\CA_ConsoleManager.exe
+C:\Users\RMK\Desktop\ШАГ\C#\HomeWork\HW_9_Kyrsak_FAR_manager\CA_ConsoleManager\CA_ConsoleManager\obj\Debug\CA_ConsoleManager.pdb
